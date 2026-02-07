@@ -1,8 +1,4 @@
-Harika! GitHub profilinin vitrini olan README.md dosyasını öyle bir hazırlayalım ki, okuyan kişi (hocan veya işe alım uzmanı) kodu incelemeden bile "Bu arkadaş işi biliyor" desin.
-
-Aşağıdaki metni kopyala ve projenin ana dizinindeki README.md dosyasının içine yapıştır. (Eğer dosya yoksa README.md adında yeni bir dosya oluşturup içine yapıştır).
-
-🎸 SoundStation: Müziğin Ritmini Yakalayan E-Ticaret Deneyimi
+.🎸 SoundStation: Müziğin Ritmini Yakalayan E-Ticaret Deneyimi
 SoundStation, müzik ekipmanları satışını simüle eden, Flutter ile geliştirilmiş, yüksek performanslı ve modern bir mobil uygulamadır. Sadece bir ürün kataloğu değil; yaşayan, hesaplayan ve kullanıcıyla etkileşime giren tam kapsamlı bir e-ticaret deneyimidir.
 
 🚀 Proje Hakkında
