@@ -55,7 +55,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 1. Projeyi Klonlayın Terminali açın ve aşağıdaki komutu yazarak projeyi bilgisayarınıza indirin:
 
 Bash
-git clone https://github.com/KULLANICI_ADIN/REPO_ADIN.git
+git clone git remote add origin https://github.com/anilcay/SoundStation_Flutter_Project.git
 2. Proje Klasörüne Girin
 
 Bash
